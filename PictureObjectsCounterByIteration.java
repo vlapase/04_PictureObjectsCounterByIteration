@@ -1,6 +1,6 @@
 // file: objects counter from b/w image source.
 
-package com.shpp.p2p.cs.vpasechnyk.assignment13;
+
 
 
 import javax.imageio.ImageIO;
